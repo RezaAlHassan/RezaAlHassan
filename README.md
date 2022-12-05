@@ -18,6 +18,7 @@ Laravel | Figma | CodeBlocks
 😺 Cats 
 
 ### Links :
-hackerrank.com/h1910876
-figma.com/@reza1198
-16personalities.com/intj-personality
+https://www.hackerrank.com/h1910876
+https://www.figma.com/@reza1198
+https://www.16personalities.com/intj-personality
+
