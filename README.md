@@ -1,4 +1,4 @@
-## Hello! I am a backend developer with a knack for design 
+## Hello! I am Reza, a backend developer with an eye for good design.
 ![robot](https://user-images.githubusercontent.com/24864973/205731324-60e0c844-a067-4f93-b0f1-5843c7912c34.gif)
 
 ### “Intellectual growth should commence at birth and cease only at death”
