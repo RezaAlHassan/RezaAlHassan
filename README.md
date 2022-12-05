@@ -5,7 +5,7 @@
  <em> - Albert Einstein </em>
 
 ### Languages :
-C++ | PHP | SQL | JavaScript | HTML | CSS 
+C++ | PHP | SQL | Vue | JavaScript | HTML | CSS 
 
 ### Frameworks :
 Laravel | Figma | CodeBlocks
