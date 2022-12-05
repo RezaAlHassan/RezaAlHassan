@@ -7,7 +7,7 @@
  <em> - Albert Einstein </em>
                                                                          
 ### Interests :
-* * Coding *
+* ** Coding **
 * * Football *
 * * Video Games *
 * * Cats *
