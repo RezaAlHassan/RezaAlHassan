@@ -7,7 +7,7 @@
  <em> - Albert Einstein </em>
                                                                          
 ### Interests :
-👨‍💻 Coding 
-⚽ Football 
-👾 Video Games 
+👨‍💻 Coding |
+⚽ Football |
+👾 Video Games |
 😺 Cats 
