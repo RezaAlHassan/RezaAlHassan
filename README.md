@@ -7,7 +7,6 @@
 
 ### Languages :
 C++ | PHP | SQL | JavaScript | HTML | CSS 
-* hackerrank.com/h1910876
 
 ### Frameworks :
 Laravel | Figma | CodeBlocks
@@ -17,3 +16,8 @@ Laravel | Figma | CodeBlocks
 ⚽ Football |
 👾 Video Games |
 😺 Cats 
+
+### Links :
+hackerrank.com/h1910876
+figma.com/@reza1198
+16personalities.com/intj-personality
