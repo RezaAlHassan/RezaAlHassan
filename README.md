@@ -1,6 +1,6 @@
 ## Hello! I am Reza, a backend developer with an eye for good design.
-![robot](https://user-images.githubusercontent.com/24864973/205731324-60e0c844-a067-4f93-b0f1-5843c7912c34.gif)
-https://tenor.com/view/fire-elmo-nft-elmo-gif-22716322
+
+![fire-elmo](https://user-images.githubusercontent.com/24864973/210222355-81d2a11d-1c1a-4d6b-a0bd-3d4d081867fa.gif)
 
 ### “Intellectual growth should commence at birth and cease only at death”
  <em> - Albert Einstein </em>
