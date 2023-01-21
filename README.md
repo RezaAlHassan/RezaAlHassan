@@ -1,4 +1,4 @@
-## Hello! I am Reza, a backend developer with an eye for good design.
+## Hello! I am Reza, a full-stack developer with an eye for aesthetic design.
 
 ![fire-elmo](https://user-images.githubusercontent.com/24864973/210222355-81d2a11d-1c1a-4d6b-a0bd-3d4d081867fa.gif)
 
