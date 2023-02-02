@@ -22,4 +22,5 @@ Laravel | Figma | CodeBlocks
 * https://www.figma.com/@reza1198
 * https://www.16personalities.com/intj-personality
 * https://dribbble.com/reza11981284128
+* www.linkedin.com/in/reza1198
 
