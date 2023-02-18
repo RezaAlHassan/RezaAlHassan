@@ -6,10 +6,10 @@
  <em> - Albert Einstein </em>
 
 ### Languages :
-C++ | PHP | SQL | Vue | JavaScript | HTML | CSS 
+Python | C++ | PHP | SQL | JavaScript | HTML | CSS 
 
 ### Frameworks :
-Laravel | Figma | VSCode (C++, PHP)
+Laravel | Figma | Vue
 
 ### Interests :
 👨‍💻 Coding |
