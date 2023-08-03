@@ -17,10 +17,5 @@ Laravel | Figma | Vue
 👾 Video Games |
 😺 Cats 
 
-### Links :
-* https://www.hackerrank.com/h1910876
-* https://www.figma.com/@reza1198
-* https://www.dribbble.com/reza11981284128
-* https://www.linkedin.com/in/reza1198
-* https://www.16personalities.com/intj-personality
+
 
