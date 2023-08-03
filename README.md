@@ -6,7 +6,7 @@
  <em> - Albert Einstein </em>
 
 ### Languages :
-Python | C++ | PHP | SQL | JavaScript | HTML | CSS 
+PHP | SQL | HTML | CSS | Python | C++ | JavaScript 
 
 ### Frameworks :
 Laravel | Figma | Vue
@@ -20,7 +20,7 @@ Laravel | Figma | Vue
 ### Links :
 * https://www.hackerrank.com/h1910876
 * https://www.figma.com/@reza1198
-* https://www.16personalities.com/intj-personality
 * https://www.dribbble.com/reza11981284128
 * https://www.linkedin.com/in/reza1198
+* https://www.16personalities.com/intj-personality
 
