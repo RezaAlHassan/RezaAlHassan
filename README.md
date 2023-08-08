@@ -9,7 +9,7 @@
 PHP | SQL | HTML | CSS | Python | C++ 
 
 ### Frameworks :
-Laravel | Figma | Vue
+Laravel | Figma 
 
 ### Interests :
 👨‍💻 Coding |
