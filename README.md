@@ -11,7 +11,7 @@ PHP | SQL | HTML | CSS | Python | C++
 ### Frameworks :
 Laravel | Figma 
 
-![web-dev-website-development](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={RezaAlHassan}&theme={tokyonight}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={RezaAlHassan}&theme={tokyonight}&exclude={exclude})
 
 ### Interests :
 👨‍💻 Coding |
