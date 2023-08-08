@@ -12,7 +12,7 @@ PHP | SQL | HTML | CSS | Python | C++
 Laravel | Figma 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RezaAlHassan)
 
 ### Interests :
 👨‍💻 Coding |
