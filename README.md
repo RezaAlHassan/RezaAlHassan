@@ -11,6 +11,9 @@ PHP | SQL | HTML | CSS | Python | C++
 ### Frameworks :
 Laravel | Figma 
 
+### Resume : [Reza_Resume.pdf](https://github.com/RezaAlHassan/RezaAlHassan/files/12295107/Reza_Resume.pdf)
+
+
 ### Interests :
 👨‍💻 Coding |
 ⚽ Football |
