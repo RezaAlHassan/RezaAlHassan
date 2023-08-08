@@ -12,11 +12,8 @@ Laravel | Figma
 ### Resume : 
 [Downloadable PDF](https://github.com/RezaAlHassan/RezaAlHassan/files/12295107/Reza_Resume.pdf)
 
-### Find :
-Find me on [HackerRank](https://www.hackerrank.com/h1910876), [Dribble](www.dribbble.com/reza11981284128), 
+Find me on [HackerRank](https://www.hackerrank.com/h1910876), [Dribble](www.dribbble.com/reza11981284128) and [Figma](https://www.figma.com/@reza1198)
 
-👾 Video Games |
-😺 Cats 
 
 
 
