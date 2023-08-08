@@ -11,6 +11,8 @@ PHP | SQL | HTML | CSS | Python | C++
 ### Frameworks :
 Laravel | Figma 
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+
 ### Interests :
 👨‍💻 Coding |
 ⚽ Football |
