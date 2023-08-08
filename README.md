@@ -11,9 +11,6 @@ PHP | SQL | HTML | CSS | Python | C++
 ### Frameworks :
 Laravel | Figma 
 
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RezaAlHassan)
-
 ### Interests :
 👨‍💻 Coding |
 ⚽ Football |
