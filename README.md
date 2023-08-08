@@ -12,7 +12,7 @@ PHP | SQL | HTML | CSS | Python | C++
 Laravel | Figma 
 
 
-<img src="https://github.com/RezaAlHassan/RezaAlHassan/assets/24864973/977d2990-48dd-4483-851f-6088805afb1e.png" width=50% height=50%>
+<img src="https://github.com/RezaAlHassan/RezaAlHassan/assets/24864973/977d2990-48dd-4483-851f-6088805afb1e.png" width=25% height=25%>
 
 ### Interests :
 👨‍💻 Coding |
