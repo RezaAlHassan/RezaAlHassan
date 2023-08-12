@@ -1,7 +1,7 @@
 ### About me: 
 Adaptable, curious and continuously seeking opportunities to expand knowledge of current technology trends 
 
-You can checkout my resume [here](https://drive.google.com/file/d/1zDjODMgKXAllRbr0X_27G9kcuyzclAPW/view?usp=sharing)
+You can checkout my resume [here](https://drive.google.com/file/d/1dDKrxrKQ-3KDlGIfU7onhRyj2CK5MLFP/view?usp=drive_link)
 
 Find me on [HackerRank](https://www.hackerrank.com/h1910876), [Dribble](https://www.dribbble.com/reza11981284128) and [Figma](https://www.figma.com/@reza1198)
 
