@@ -16,7 +16,7 @@ Also find me on [HackerRank](https://www.hackerrank.com/h1910876), [Dribble](htt
  <em> - Albert Einstein </em>
 
 ### Languages :
-PHP | SQL | HTML | CSS | C++ 
+PHP | HTML | CSS | C++ 
 
 ### Frameworks :
 Laravel | Figma 
