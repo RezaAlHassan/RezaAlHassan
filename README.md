@@ -1,7 +1,7 @@
 ### About me: 
 Adaptable, curious and continuously seeking opportunities to expand knowledge of current technology trends 
 
-You can checkout my resume [here](https://drive.google.com/file/d/1WHQy3xUPRvpijQ5_f7a3TRD58QnsmFOF/view?usp=sharing)
+You can checkout my resume [here](https://drive.google.com/file/d/1fT7vdzMX_Ck2lV_2vYkgK-pdiGxU2jt_/view?usp=sharing)
 
 You can also find more about me and my projects here on my [portfolio website](https://rezaalhassan.github.io)
 
