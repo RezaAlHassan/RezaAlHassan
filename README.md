@@ -1,5 +1,5 @@
 ### About me: 
-Adaptable, curious and continuously seeking opportunities to expand knowledge of current technology trends 
+Adaptable, curious and continuously seeking opportunities to expand knowledge of current technology trends> with 3 years fullstack software development experience and a year of designing products, I can be your one stop solution for all your digital needs. 
 
 You can checkout my resume [here](https://drive.google.com/file/d/1fT7vdzMX_Ck2lV_2vYkgK-pdiGxU2jt_/view?usp=sharing)
 
