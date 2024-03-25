@@ -1,11 +1,11 @@
 ### About me: 
-With 3 years fullstack software development and designing experience, with an knack for leading teams to create software solutions that exceeded customer expectations , I can be your one stop solution for all your digital needs. 
+With 3 years fullstack software development and design experience and a knack for leading teams to create software solutions that exceeded customer expectations, I can be your one stop solution for all your digital needs. 
 
 You can checkout my resume [here](https://drive.google.com/file/d/1Hqm4NU1sTrQfQzNZfK4K26ZENJdzun5B/view?usp=sharing)
 
 You can also find more about me and my projects here on my [portfolio](https://reza1198.netlify.app) 
 
-Also find me on [HackerRank](https://www.hackerrank.com/h1910876),  [Dribble](https://www.dribbble.com/reza11981284128) [Dribble](https://www.dribbble.com/reza11981284128) and [Behance](https://www.behance.net/yourfavdev)
+Also find me on [HackerRank](https://www.hackerrank.com/h1910876),  [Dribble](https://www.dribbble.com/reza11981284128), [Figma](https://www.figma.com/@reza1198) and [Behance](https://www.behance.net/yourfavdev)
 
 ![robot](https://github.com/RezaAlHassan/RezaAlHassan/assets/24864973/d60669a9-60cb-4aa3-9d7d-1c15f2d36135)
 
