@@ -1,7 +1,5 @@
 ### About me: 
-With 3 years fullstack software development and design experience and a knack for leading teams to create software solutions that exceeded customer expectations, I can be your one stop solution for all your digital needs. 
-
-You can checkout my resume [here](https://drive.google.com/file/d/1Hqm4NU1sTrQfQzNZfK4K26ZENJdzun5B/view?usp=sharing)
+With 3 years fullstack software development and design experience and a knack for leading teams to create software solutions that exceeded customer expectations, I can be your one stop solution for all your digital needs.
 
 You can also find more about me and my projects here on my [portfolio](https://reza1198.netlify.app) 
 
