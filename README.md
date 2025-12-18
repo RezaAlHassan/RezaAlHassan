@@ -1,5 +1,5 @@
 ### About me: 
-With 3 years fullstack software development and design experience and a knack for leading teams to create software solutions that exceeded customer expectations
+I like designing products and ai
 
 You can also find more about me and my projects here on my [portfolio](https://rezaalhasan.site) 
 
