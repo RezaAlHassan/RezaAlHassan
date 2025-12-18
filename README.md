@@ -9,11 +9,7 @@ Also find me on [HackerRank](https://www.hackerrank.com/h1910876),  [Dribble](ht
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=RezaAlHassan)
 
-### Languages :
-PHP | HTML | CSS | C++ 
 
-### Frameworks :
-Laravel | Figma 
 
 
 
